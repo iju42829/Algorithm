@@ -1,7 +1,7 @@
 # 알고리즘 풀이(BOJ)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={iju42829})](https://solved.ac/{iju42829})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iju42829)](https://solved.ac/iju42829)
 
 ## 목표
 부족한 알고리즘 능력 향상을 목표로 합니다.<br>
