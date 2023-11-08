@@ -1,4 +1,4 @@
-package baekjoon.silver;
+package baekjoon.silver.silver_III;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;

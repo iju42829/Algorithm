@@ -1,4 +1,4 @@
-package baekjoon.silver;
+package baekjoon.silver.silver_IV;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
