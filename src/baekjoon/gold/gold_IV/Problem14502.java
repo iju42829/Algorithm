@@ -1,4 +1,4 @@
-package baekjoon.gold;
+package baekjoon.gold.gold_IV;
 
 import java.io.*;
 import java.util.LinkedList;

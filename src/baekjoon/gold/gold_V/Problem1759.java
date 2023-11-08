@@ -1,4 +1,4 @@
-package baekjoon.gold;
+package baekjoon.gold.gold_V;
 
 import java.io.*;
 import java.util.Arrays;
